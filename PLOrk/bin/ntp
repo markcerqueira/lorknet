@@ -1,0 +1,20 @@
+if [ $# -ne 1 ];
+then
+    echo "Usage: ntp NTP_server"
+    exit 65
+fi
+
+echo ""
+echo "Enter the password to your computer if prompted..."
+echo "If you're on a PLOrktop, the password is probably kida#@"
+echo ""
+
+for i in 1 2 3 4 5
+do
+	sudo ntpdate -p 8 -b $1
+	sleep .5
+done
+
+echo ""
+echo "Done syncing clock to $1"
+echo ""

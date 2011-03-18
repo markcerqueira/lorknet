@@ -1,0 +1,3 @@
+pushd "$LOrk_PATH"
+chuck --caution-to-the-wind -c6 pieces/CliX-ntp/clix_auto.ck
+popd

@@ -1,0 +1,4 @@
+#only one laptop on the network should run this!
+pushd "$LOrk_PATH"
+chuck pieces/CliX-multicast/server-multi_auto.ck
+popd

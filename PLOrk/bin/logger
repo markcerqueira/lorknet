@@ -1,0 +1,7 @@
+pushd "$LOrk_PATH"
+
+echo "I am Dan Trueman version-parent 2.0"
+
+chuck pieces/lorknet/tester.ck:0 2> ~/Desktop/output.txt
+
+popd

@@ -1,0 +1,5 @@
+pushd "$LOrk_PATH"
+
+chuck --caution-to-the-wind pieces/lorknet/demo.ck
+
+popd
