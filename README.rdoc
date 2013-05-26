@@ -22,4 +22,4 @@ Collected data for various routers can be viewed {here}[http://lorknet.cs.prince
 If you'd like to contribute improvements or extra data to LOrkNeT, please feel free to contact me or open a pull request!
 
 ===LICENSE
-SoundCraft is released under the {MIT License}[http://opensource.org/licenses/MIT].
+LOrkNeT is released under the {MIT License}[http://opensource.org/licenses/MIT].
