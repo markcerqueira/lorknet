@@ -1,26 +1,18 @@
-LOrkNeT - The Laptop Orchestra Network Toolkit
- by Mark Cerqueira (mcerquei at cs dot princeton edu)
-    Dan Trueman (dtrueman at princeton dot edu)
+==LOrkNeT - <em>Laptop Orchestra Network Toolkit</em>
+by Mark Cerqueira, Dan Trueman
 
-CONTENTS: 
-  arOSC - a modified version of OSC written in ChucK that redundantly sends 
-    packets and adapts based on the success rate of packets sent
+===CONTENTS
+*arOSC* - a modified version of OSC written in ChucK that redundantly sends packets and adapts based on the success rate of packets sent
 
-  PLOrk - variations on the PLOrk classic CliX implemented using different
-    networking protocols and a tester used to test networking during a
-    gathering of the entire Princeton Laptop Orchestra
+*PLOrk* - variations on the PLOrk classic CliX implemented using different networking protocols and a tester used to test networking during a gathering of the entire Princeton Laptop Orchestra
 
-  test-std - LOrkNeT test code to evalute networking conditions in your
-   laptop orchestra without the use of NTP
+*test-std* - LOrkNeT test code to evalute networking conditions in your laptop orchestra without the use of NTP (i.e. standard or "std" set-up for most pieces)
 
-  test-ntp -  LOrkNeT test code to evalute networking conditions in your
-   laptop orchestra using NTP
+*test-ntp* -  LOrkNeT test code to evalute networking conditions in your laptop orchestra using NTP
 
-  tOSC - a modified version of OSC written in ChucK that forwardly synchronizes
-    packets sent over OSC
+*tOSC* - a modified version of OSC written in ChucK that forwardly synchronizes packets sent over OSC
 
-TODO:
-  1) Work on getting NTP configured properly on computers using the 
-     test-ntp test
+===TODO
+1) Work on getting NTP configured properly on computers using the test-ntp test
 
-Copyright 2011 Mark-san.
+===LICENSE
