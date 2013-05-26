@@ -12,7 +12,14 @@ by Mark Cerqueira, Dan Trueman
 
 *tOSC* - a modified version of OSC written in ChucK that forwardly synchronizes packets sent over OSC
 
+===COLLECTED DATA
+Collected data for various routers can be viewed {here}[http://lorknet.cs.princeton.edu/data/].
+
 ===TODO
 1) Work on getting NTP configured properly on computers using the test-ntp test
 
+===CONTRIBUTE
+If you'd like to contribute improvements or extra data to LOrkNeT, please feel free to contact me or open a pull request!
+
 ===LICENSE
+SoundCraft is released under the {MIT License}[http://opensource.org/licenses/MIT].
