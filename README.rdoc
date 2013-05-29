@@ -1,4 +1,4 @@
-==LOrkNeT - <em>Laptop Orchestra Network Toolkit</em>
+=={LOrkNeT}[lorknet.cs.princeton.edu] - <em>Laptop Orchestra Network Toolkit</em>
 by Mark Cerqueira, Dan Trueman
 
 ===CONTENTS
